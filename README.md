@@ -1,11 +1,10 @@
 # Kickstarter Excel Analysis
 
-## **Overview:** Analysis of key parameters related to details of Kickstarter campaigns
+## **Overview:** Analysis of key parameters related to details of Kickstarter campaigns to support Louise is her play campaign planning process
 
 ### **Purpose:** The goal of this analysis is to give insight into how lunch dates and fundraising goals are linked to different campaign outcomes
 
-## Analysis and Challenges
-To perform this analysis, pivot tables and countifs tools were used to effectively filter and construct informative charts.
+## Analysis and Challenges: To perform this analysis, pivot tables and countifs tools were used to effectively filter and construct informative charts.
 ### Analysis of Outcomes Based on Goals
 ![Theater Outcomes vs Launch](https://github.com/zborglin/Kickstarter_Challenge/blob/master/resources/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Launch Date
