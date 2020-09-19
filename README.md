@@ -6,10 +6,10 @@
 
 ## Analysis and Challenges
 To perform this analysis, pivot tables and countifs tools were used to effectively filter and construct informative charts.
-### Analysis of Outcomes Based on Launch Date
-![Outcomes vs Goals](https://github.com/zborglin/Kickstarter_Challenge/blob/master/resources/Outcomes_vs_Goals.png)
 ### Analysis of Outcomes Based on Goals
 ![Theater Outcomes vs Launch](https://github.com/zborglin/Kickstarter_Challenge/blob/master/resources/Theater_Outcomes_vs_Launch.png)
+### Analysis of Outcomes Based on Launch Date
+![Outcomes vs Goals](https://github.com/zborglin/Kickstarter_Challenge/blob/master/resources/Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 A potential challenge of this analysis strategy is to make sure you display the information that is most important for your intended audience. For example, you want to make sure you give relevant information to someone that is interested in theater campaigns, and not include information about technology campaigns for such a stakeholder. 
 ## Results
